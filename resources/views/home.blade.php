@@ -17,17 +17,17 @@
                     <form>
                         <div class="form-row mb-4">
                             <div class="form-group col-md-6">
-                                <label for="inputEmail4">Email</label>
-                                <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+                                <label for="age">Age</label>
+                                <input type="text" name="age" class="form-control" id="age" placeholder="">
                             </div>
                             <div class="form-group col-md-6">
-                                <label for="inputPassword4">Password</label>
-                                <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
+                                <label for="gender">Gender</label>
+                                <input type="text"  name="gender" class="form-control" id="gender" placeholder="">
                             </div>
                         </div>
                         <div class="form-group mb-4">
-                            <label for="inputAddress">Address</label>
-                            <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+                            <label for="bday">Birthday</label>
+                            <input type="date"  name="bday" class="form-control" id="bday" placeholder="">
                         </div>
                         <div class="form-group mb-4">
                             <label for="inputAddress2">Address 2</label>
